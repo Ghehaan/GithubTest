@@ -12,6 +12,7 @@ namespace GithubTest
         {
             System.Console.Write("test");
             System.Console.Write("test2");
+            System.Console.Write("test3");
         }
     }
 }
